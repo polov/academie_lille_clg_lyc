@@ -1,6 +1,8 @@
 # Académie de Lille - Collèges & Lycées
 
-Les collèges et lycées de l'Académie de Lille (Départements du Nord et du Pas-de-Calais) sont affichés sur cette carte. Sont ajoutés les périmètres des quartiers prioritaires de la politique de la ville.  
+Les collèges (REP, REP+, hors REP) et lycées de l'Académie de Lille (Départements du Nord et du Pas-de-Calais) sont affichés sur cette carte. 
+Sont ajoutés les périmètres des quartiers prioritaires de la politique de la ville.   
+ 
 
 Les données proviennent :
 - de la plateforme Open-Data de l'Education Nationale 
