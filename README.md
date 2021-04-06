@@ -11,7 +11,7 @@ https://data.education.gouv.fr/explore/dataset/fr-en-adresse-et-geolocalisation-
 - de la plateforme Open-Data de l'Agence Nationale de la Cohésion des Territoires
 https://www.data.gouv.fr/fr/datasets/quartiers-prioritaires-de-la-politique-de-la-ville-qpv/ 
 
-Le fond de carte utilisé provient d'Openstreetmap. 
+Le fond de carte utilisé provient d'Openstreetmap https://www.openstreetmap.org/#map=9/50.5628/2.6856
 
 # Traitement de données et logiciels utilisés
 
